@@ -1,16 +1,25 @@
-### Hi there 👋
+# Olá, seja bem vindo! 👋
 
-<!--
-**gleisonlsouza/gleisonlsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor fullstack, apaixonado por tecnologia e sempre em busca de conhecimento e melhorias. Focado em desempenho, estou constantemente explorando as melhores práticas e soluções para desenvolvimento de software.
 
-Here are some ideas to get you started:
+## Principais habilidades e tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript
+- TypeScript
+- Python
+- Node
+- React
+- Next
+- Django Rest Framework
+
+## Contato
+
+- LinkedIn: [linkedin.com/in/gleisonlsouza](https://www.linkedin.com/in/gleisonlsouza/)
+
+## Estatísticas do GitHub
+
+[![Estatísticas do GitHub de Gleison Souza](https://github-readme-stats.vercel.app/api?username=gleisonlsouza&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contribuições recentes
+
+[![Gráfico de contribuições de Gleison Souza](https://github-readme-stats.vercel.app/api?username=gleisonlsouza&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
